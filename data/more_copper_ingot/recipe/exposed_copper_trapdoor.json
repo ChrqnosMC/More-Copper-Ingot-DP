@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:copper_ingot",
+        "components": {
+          "item_name": "'Exposed Copper Ingot'",
+          "custom_model_data": 1
+        }
+      }
+    },
+    "result": {
+      "id": "minecraft:exposed_copper_trapdoor",
+      "count": 2
+    }
+  }

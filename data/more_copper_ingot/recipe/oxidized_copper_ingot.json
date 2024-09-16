@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "copper_ingot",
+    "ingredients": [
+      {
+        "item": "minecraft:oxidized_copper"
+      }
+    ],
+    "result": {
+      "id": "minecraft:copper_ingot",
+      "components": {
+        "item_name": "'Oxidized Copper Ingot'",
+        "custom_model_data": 3
+      },
+      "count": 9
+    }
+  }

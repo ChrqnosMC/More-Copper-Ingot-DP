@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+      "##",
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:copper_ingot",
+        "components": {
+          "item_name": "'Oxidized Copper Ingot'",
+          "custom_model_data": 3
+        }
+      }
+    },
+    "result": {
+      "id": "minecraft:oxidized_copper_door",
+      "count": 3
+    }
+  }
