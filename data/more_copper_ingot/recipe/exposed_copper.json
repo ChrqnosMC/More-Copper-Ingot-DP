@@ -1,11 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
     "category": "building",
-    "pattern": [
-      "###",
-      "###",
-      "###"
-    ],
     "key": {
       "#": {
         "item": "minecraft:copper_ingot",
@@ -15,8 +10,13 @@
         }
       }
     },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
     "result": {
-      "id": "minecraft:exposed_copper",
-      "count": 1
+      "count": 1,
+      "id": "minecraft:exposed_copper"
     }
   }
